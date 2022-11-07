@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 
 
-class PowerHungry {
+class Solution {
 
     public static String solution(int[] xs){
         int positives = 0;
